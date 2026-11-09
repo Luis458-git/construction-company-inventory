@@ -1,0 +1,9 @@
+[
+  { "id": 1, "codigo_estandar": "MAT-CEM-01", "descripcion": "Cemento gris 50 kg", "stock_actual": 190, "punto_reorden": 165, "stock_seguridad": 75, "estado": "OK" },
+  { "id": 2, "codigo_estandar": "MAT-ACE-04", "descripcion": "Varilla de acero #4 Grado 60", "stock_actual": 420, "punto_reorden": 350, "stock_seguridad": 175, "estado": "OK" },
+  { "id": 3, "codigo_estandar": "MAT-MAM-01", "descripcion": "Block 12x20x40 estándar", "stock_actual": 2800, "punto_reorden": 3600, "stock_seguridad": 1200, "estado": "CRITICO" },
+  { "id": 4, "codigo_estandar": "MAT-AGR-01", "descripcion": "Arena de río cribada (m³)", "stock_actual": 14, "punto_reorden": 20, "stock_seguridad": 8, "estado": "CRITICO" },
+  { "id": 5, "codigo_estandar": "MAT-AGR-02", "descripcion": "Piedra cuarta limpia (m³)", "stock_actual": 45, "punto_reorden": 35, "stock_seguridad": 15, "estado": "OK" },
+  { "id": 6, "codigo_estandar": "MAT-EPP-01", "descripcion": "Casco de seguridad Tipo I", "stock_actual": 110, "punto_reorden": 80, "stock_seguridad": 40, "estado": "OK" }
+]
+
